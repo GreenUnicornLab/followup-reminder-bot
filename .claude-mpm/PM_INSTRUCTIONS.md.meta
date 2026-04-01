@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "content_type": "assembled_instruction",
+  "components": [
+    "BASE_PM.md",
+    "PM_INSTRUCTIONS.md",
+    "WORKFLOW.md",
+    "agent_capabilities",
+    "temporal_context"
+  ],
+  "content_hash": "1804df30fd262b91a1e0d0d357d8c9b248795e37a54380005be5515b02e3e1ce",
+  "content_size_bytes": 102142,
+  "cached_at": "2026-04-01T09:19:51.506810+00:00"
+}
